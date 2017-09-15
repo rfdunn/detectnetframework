@@ -1,0 +1,7 @@
+C:\Users\Russell.Dunn.RED-GATE\Documents\Visual Studio 2017\Projects\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.csprojResolveAssemblyReference.cache
+C:\Users\Russell.Dunn.RED-GATE\Documents\Visual Studio 2017\Projects\ConsoleApp11\ConsoleApp11\obj\Debug\ConsoleApp11.csproj.CoreCompileInputs.cache
+C:\Users\Russell.Dunn.RED-GATE\Documents\Visual Studio 2017\Projects\ConsoleApp11\ConsoleApp11\bin\Debug\DetectNETFramework.exe.config
+C:\Users\Russell.Dunn.RED-GATE\Documents\Visual Studio 2017\Projects\ConsoleApp11\ConsoleApp11\bin\Debug\DetectNETFramework.exe
+C:\Users\Russell.Dunn.RED-GATE\Documents\Visual Studio 2017\Projects\ConsoleApp11\ConsoleApp11\bin\Debug\DetectNETFramework.pdb
+C:\Users\Russell.Dunn.RED-GATE\Documents\Visual Studio 2017\Projects\ConsoleApp11\ConsoleApp11\obj\Debug\DetectNETFramework.exe
+C:\Users\Russell.Dunn.RED-GATE\Documents\Visual Studio 2017\Projects\ConsoleApp11\ConsoleApp11\obj\Debug\DetectNETFramework.pdb
